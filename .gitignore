@@ -1,0 +1,5 @@
+linux/*
+!linux/*.asm
+
+windows/*
+!windows/*.asm
